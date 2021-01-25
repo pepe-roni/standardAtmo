@@ -1,0 +1,2 @@
+# standardAtmo
+A Matlab script that finds standard atmosphere values (english units) for temperature, local acceleration of gravity, air pressure, air density, and dynamic viscosity by searching for the closest two values in a standard table and interpolating. All interactions are done within the command window. Script is applicable for altitude values between -5000 ft and 250,000 ft. If greater range or precision is needed, you can edit the "stdAtmosphere.csv" file with more data points.
